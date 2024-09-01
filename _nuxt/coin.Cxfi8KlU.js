@@ -1,0 +1,1 @@
+import{o as e,c as s,l as o,a1 as c,X as r}from"./entry.DIm1cVWt.js";const _=["src"];function t(n,i){return e(),s("img",{class:"coin img-responsive",src:"IMAGE_COIN"in n?n.IMAGE_COIN:o(c)},null,8,_)}const a={},m=r(a,[["render",t]]);export{m as _};
